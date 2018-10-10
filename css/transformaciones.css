@@ -1,0 +1,21 @@
+div{
+	float: left;
+}
+li {
+	list-style: none;
+}
+li a{
+	text-decoration: none;
+	margin-left: 70px;
+
+}
+.gm{
+	font-size: 20px;
+	margin-left:70px ;
+	color: black;
+}
+.ins{
+	font-size: 40px;
+	margin-left:150px ;
+	color: black;
+}

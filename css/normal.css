@@ -1,0 +1,77 @@
+div{
+
+}
+
+li {
+	list-style: none;
+}
+ul a{
+	display: block;
+}
+
+#icon1{
+	font-size: 20px;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 100%;
+	background-color: blue;
+	margin: 0px 0px 10px 0px;
+	
+}
+a :hover{
+
+-moz-transform: scale(1.3) rotate(15deg) translateX(5px) translateY(5px);
+-webkit-transform: scale(1.3) rotate(15deg) translateX(5px) translateY(5px);
+-o-transform: scale(1.3) rotate(15deg) translateX(5px) translateY(5px);
+-ms-transform: scale(1.3) rotate(15deg) translateX(5px) translateY(5px);
+transform: scale(1.3) rotate(15deg) translateX(5px) translateY(5px);
+
+-webkit-transition: all 1000ms ease-in-out;
+-moz-transition: all 1000ms ease-in-out;
+-ms-transition: all 1000ms ease-in-out;
+-o-transition: all 1000ms ease-in-out;
+transition: all 1000ms ease-in-out;
+}
+#icon2{
+	font-size: 20px;
+	color: white;
+	padding: 10px 10px;
+	border-radius: 100%;
+	background-color: #29B6E2;
+	margin: 0px 0px 10px 0px;
+}
+#icon3{
+	font-size: 20px;
+	color: white;
+	padding: 10px 8px;
+	border-radius: 100%;
+	background-color:#E0140E ;
+	margin: 0px 0px 10px 0px;
+}
+#icon4{
+	font-size: 20px;
+	color: white;
+	padding: 10px 13px;
+	border-radius: 100%;
+	background-color:red;
+	margin: 0px 0px 10px 0px;
+}
+#icon5{
+	font-size: 20px;
+	color: white;
+	padding: 10px 10px;
+	border-radius: 100%;
+	background-color:green;
+	margin: 0px 0px 10px 0px;
+}
+.social{
+	position: fixed;
+	left:0;
+	top: 300px;
+	z-index: 2000;
+}
+
+
+
+
+
